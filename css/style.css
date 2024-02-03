@@ -1,0 +1,20 @@
+.btn-primary{
+    background-color: bisque;
+    color: #111;
+    border: none;
+    border-radius: 0;
+}
+
+.btn-primary:hover{
+    background-color: #111;
+    color: bisque;
+}
+
+.card{
+    border-radius: 0;
+    box-shadow: 2px 2px 10px 3px #1111113c;
+}
+
+.card img{
+    border-radius: 0;
+}
